@@ -1,0 +1,28 @@
+C:\Users\jviei\source\repos\tarefa 2\tarefa 2\bin\Debug\s.exe.config
+C:\Users\jviei\source\repos\tarefa 2\tarefa 2\bin\Debug\s.exe
+C:\Users\jviei\source\repos\tarefa 2\tarefa 2\bin\Debug\s.pdb
+C:\Users\jviei\source\repos\tarefa 2\tarefa 2\bin\Debug\s.xml
+C:\Users\jviei\source\repos\tarefa 2\tarefa 2\obj\Debug\tarefa 2.vbprojAssemblyReference.cache
+C:\Users\jviei\source\repos\tarefa 2\tarefa 2\obj\Debug\tarefa_2.Form1.resources
+C:\Users\jviei\source\repos\tarefa 2\tarefa 2\obj\Debug\tarefa_2.Resources.resources
+C:\Users\jviei\source\repos\tarefa 2\tarefa 2\obj\Debug\tarefa_2.SplashScreen1.resources
+C:\Users\jviei\source\repos\tarefa 2\tarefa 2\obj\Debug\tarefa 2.vbproj.GenerateResource.cache
+C:\Users\jviei\source\repos\tarefa 2\tarefa 2\obj\Debug\tarefa 2.vbproj.CoreCompileInputs.cache
+C:\Users\jviei\source\repos\tarefa 2\tarefa 2\obj\Debug\s.exe
+C:\Users\jviei\source\repos\tarefa 2\tarefa 2\obj\Debug\s.xml
+C:\Users\jviei\source\repos\tarefa 2\tarefa 2\obj\Debug\s.pdb
+C:\Users\jviei\source\repos\tarefa 2\tarefa 2\obj\Debug\tarefa_2.login.resources
+D:\psi\tarefa 2\tarefa 2\bin\Debug\s.exe.config
+D:\psi\tarefa 2\tarefa 2\bin\Debug\s.exe
+D:\psi\tarefa 2\tarefa 2\bin\Debug\s.pdb
+D:\psi\tarefa 2\tarefa 2\bin\Debug\s.xml
+D:\psi\tarefa 2\tarefa 2\obj\Debug\tarefa 2.vbprojAssemblyReference.cache
+D:\psi\tarefa 2\tarefa 2\obj\Debug\tarefa_2.Form1.resources
+D:\psi\tarefa 2\tarefa 2\obj\Debug\tarefa_2.login.resources
+D:\psi\tarefa 2\tarefa 2\obj\Debug\tarefa_2.Resources.resources
+D:\psi\tarefa 2\tarefa 2\obj\Debug\tarefa_2.SplashScreen1.resources
+D:\psi\tarefa 2\tarefa 2\obj\Debug\tarefa 2.vbproj.GenerateResource.cache
+D:\psi\tarefa 2\tarefa 2\obj\Debug\tarefa 2.vbproj.CoreCompileInputs.cache
+D:\psi\tarefa 2\tarefa 2\obj\Debug\s.exe
+D:\psi\tarefa 2\tarefa 2\obj\Debug\s.xml
+D:\psi\tarefa 2\tarefa 2\obj\Debug\s.pdb
